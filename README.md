@@ -15,7 +15,7 @@ Nojun Kwak<sup>1,†</sup>
 <sup>*</sup> Equal contribution &nbsp;&nbsp;
 <sup>†</sup> Corresponding author
 </p>
-<a href=""><img src='https://img.shields.io/badge/arXiv-Coming_Soon-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2604.06665"><img src='https://img.shields.io/badge/arXiv-VDPP-red' alt='Paper PDF'></a>
 </div>
 
 &nbsp;
@@ -33,6 +33,7 @@ Per-frame depth estimation models (e.g., [Depth-Anything-V2](https://github.com/
 ---
 
 ## News
+- **2026-04-09**: Paper available on [arXiv](https://arxiv.org/abs/2604.06665).
 - **2026-03-26**: Code and models released.
 - **2026-03-25**: Paper accepted at [CVPR 2026 ECV Workshop](https://ecv-workshop.github.io/).
 
